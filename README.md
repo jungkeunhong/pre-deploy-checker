@@ -88,7 +88,7 @@ Detailed guidance on detecting and preventing hardcoded secrets and credentials.
 
 1. **Install the plugin:**
    ```bash
-   claude plugin add https://github.com/anthropics/pre-deploy-checker
+   claude plugin install https://github.com/jungkeunhong/pre-deploy-checker
    ```
 
 2. **Before committing:**
@@ -223,8 +223,9 @@ A: Minimal. Checks run in 2-15 seconds depending on project size.
 ## Support & Contributing
 
 Report issues or contribute improvements:
-- GitHub: https://github.com/anthropics/pre-deploy-checker
-- Documentation: https://docs.claude.com
+- GitHub: https://github.com/jungkeunhong/pre-deploy-checker
+- Issues: https://github.com/jungkeunhong/pre-deploy-checker/issues
+- Documentation: https://github.com/jungkeunhong/pre-deploy-checker#readme
 
 ## License
 
