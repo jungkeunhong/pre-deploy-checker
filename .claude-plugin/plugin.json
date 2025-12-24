@@ -1,0 +1,21 @@
+{
+  "name": "pre-deploy-checker",
+  "version": "1.0.0",
+  "description": "Comprehensive pre-deployment error detection plugin that catches TypeScript errors, security vulnerabilities (hardcoded secrets/API keys), and git issues before commit and push. Framework and language agnostic.",
+  "author": {
+    "name": "Claude Code Community",
+    "email": "hello@anthropic.com"
+  },
+  "homepage": "https://github.com/anthropics/claude-code-plugins",
+  "repository": "https://github.com/anthropics/pre-deploy-checker",
+  "license": "MIT",
+  "keywords": [
+    "deployment",
+    "validation",
+    "error-checking",
+    "security-scanning",
+    "pre-commit",
+    "typescript",
+    "secrets-detection"
+  ]
+}
