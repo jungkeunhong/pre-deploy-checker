@@ -6,8 +6,8 @@
     "name": "Claude Code Community",
     "email": "hello@anthropic.com"
   },
-  "homepage": "https://github.com/anthropics/claude-code-plugins",
-  "repository": "https://github.com/anthropics/pre-deploy-checker",
+  "homepage": "https://github.com/jungkeunhong/pre-deploy-checker",
+  "repository": "https://github.com/jungkeunhong/pre-deploy-checker",
   "license": "MIT",
   "keywords": [
     "deployment",
